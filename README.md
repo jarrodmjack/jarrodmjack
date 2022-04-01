@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full-Stack JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... jarrodmjack@gmail.com
 
 <!---
 jarrodmjack/jarrodmjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
