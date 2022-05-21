@@ -1,34 +1,59 @@
-<h1 align="center">Hi 👋, I'm Jarrod</h1>
-<h3 align="center">A passionate Full-Stack Software Developer from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarrodmjack" alt="jarrodmjack" /></a> </p>
+<h1 align="center">Hi , I'm Jarrod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/jarrodmjack"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
-<p align="left"> <a href="https://twitter.com/jarrodmjack" target="blank"><img src="https://img.shields.io/twitter/follow/jarrodmjack?logo=twitter&style=for-the-badge" alt="jarrodmjack" /></a> </p>
+<h4 align="center">
+I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stack Web Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to open source projects and create web applications that are responsive, powerful and accessible to all.
+</h4>
+<br>
+<!--<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div> -->
+<hr/> 
 
-- 🔭 I’m currently working on [Country Information Database](https://countryinfodb.netlify.app/)
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarrodmjack&theme=algolia" alt="jarrodmjack" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodmjack&theme=algolia&layout=compact" alt="jarrodmjack" /></p>
 
-- 🌱 I’m currently learning **JavaScript, React, Node.JS, MongoDB**
+<br>
+<hr/>
 
-- 👨‍💻 All of my projects are available at [https://jarrodmjack.netlify.app/](https://jarrodmjack.netlify.app/)
+## 🏆 Trophies
+<p align="center"> <a href="https://github.com/jarrodmjack"><img
+      src="https://github-profile-trophy.vercel.app/?username=jarrodmjack&row=1&column=3&theme=algolia" alt="jarrodmjack" /></a>  </p>
+    
+ 
 
-- 💬 Ask me about **CSS, JavaScript**
 
-- 📫 How to reach me **jarrodmjack@gmail.com**
+<br>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@jarrodmjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jarrodmjack" height="30" width="40" /></a>
-<a href="https://twitter.com/jarrodmjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarrodmjack" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jarrod-jack-65472822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarrod-jack-65472822a" height="30" width="40" /></a>
-<a href="https://fb.com/jarrodmjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jarrodmjack" height="30" width="40" /></a>
-<a href="https://instagram.com/@jarrdojack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jarrdojack" height="30" width="40" /></a>
+## ⚡ Recent GitHub Activity
+<a href="https://github.com/jaypavasiya"><img alt="Jarrod activity graph" src="https://activity-graph.herokuapp.com/graph?username=jarrodmjack&custom_title=jarrods%20Contribution%20Graph&theme=react-dark" /></a>
+
+
+<hr/>
+
+## 🐍
+  <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarrodmjack&show_icons=true&locale=en&layout=compact" alt="jarrodmjack" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarrodmjack&show_icons=true&locale=en" alt="jarrodmjack" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarrodmjack&" alt="jarrodmjack" /></p>
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:jarrodmjack@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://github.com/jarrodmjack"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jarrod-jack-65472822a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://twitter.com/jarrodmjack"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+	
+	
+</p>
