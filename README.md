@@ -16,12 +16,26 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 </div> -->
 <hr/> 
 
+Check out some of my projects...
+
+World of Warcraft item finder: https://github.com/jarrodmjack/World-Of-WarCraft-Item-Finder
+
+Country Info Database: https://github.com/jarrodmjack/country-api
+
+Pokemon Card Generator: https://github.com/jarrodmjack/pokemon-api
+
+J's Tic Tac Toe: https://github.com/jarrodmjack/J-s-TicTacToe-project
+
+
+<hr/>
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarrodmjack&theme=algolia" alt="jarrodmjack" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodmjack&theme=algolia&layout=compact" alt="jarrodmjack" /></p>
 
 <br>
 <hr/>
+
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/jarrodmjack"><img
