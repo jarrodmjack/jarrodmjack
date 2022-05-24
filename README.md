@@ -45,11 +45,11 @@ J's Tic Tac Toe: https://github.com/jarrodmjack/J-s-TicTacToe-project
 
 
 <br>
-<hr/>
-
+<!-- <hr/> -->
+<!-- 
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/jaypavasiya"><img alt="Jarrod activity graph" src="https://activity-graph.herokuapp.com/graph?username=jarrodmjack&custom_title=jarrods%20Contribution%20Graph&theme=react-dark" /></a>
-
+ -->
 
 <hr/>
 
