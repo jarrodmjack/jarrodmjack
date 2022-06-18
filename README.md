@@ -16,7 +16,8 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 </div> -->
 <hr/> 
 
-Check out some of my projects below...
+Check out some of my projects below....
+
 
 World of Warcraft item finder: https://github.com/jarrodmjack/World-Of-WarCraft-Item-Finder
 
