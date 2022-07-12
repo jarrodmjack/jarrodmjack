@@ -18,7 +18,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 
 Check out some of my projects below....
 
-Clearcoin : https://github.com/jarrodmjack/Clear-coin-app
+Clearcoin Crypto: https://github.com/jarrodmjack/Clear-coin-app
 
 World of Warcraft item finder: https://github.com/jarrodmjack/World-Of-WarCraft-Item-Finder
 
