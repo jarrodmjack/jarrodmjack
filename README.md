@@ -18,14 +18,13 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 
 Check out some of my projects below....
 
+Clearcoin : https://github.com/jarrodmjack/Clear-coin-app
 
 World of Warcraft item finder: https://github.com/jarrodmjack/World-Of-WarCraft-Item-Finder
 
 Country Info Database: https://github.com/jarrodmjack/country-api
 
 Pokemon Card Generator: https://github.com/jarrodmjack/pokemon-api
-
-J's Tic Tac Toe: https://github.com/jarrodmjack/J-s-TicTacToe-project
 
 
 <hr/>
