@@ -65,7 +65,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
     <td width="50%" valign="top">
       <h3 align="center">Infinity Salon</h3>
         <br />
-      <a target="_blank" href="https://sallyssalon.netlify.app/">
+      <a target="_blank" href="https://infinitysalon.netlify.app/">
             <img src="https://cdn-aiogc.nitrocdn.com/rMYQrsZdIIazKavgLMeJFjBGGJYSrQyJ/assets/static/optimized/rev-66a7702/wp-content/uploads/2022/02/industrie-salon-los-angeles.jpg" width="100%"  alt="salon"/>
         </a>
         <br />
