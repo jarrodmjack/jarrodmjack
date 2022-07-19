@@ -35,11 +35,11 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
   <a href="https://github.com/jarrodmjack/Clear-coin-app">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://github.com/jarrodmjack/Clear-coin-app" target="_blank">
+  <a href="https://clearcoincrypto.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/Node.js</strong> - Clearcoin Crypto is a full-stack crypto price tracking application created to make price tracking less overwhelming</p>
+        <p><strong>JavaScript/React</strong> - Clearcoin is a crypto price tracker built using React. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">100 Notes</h3>
