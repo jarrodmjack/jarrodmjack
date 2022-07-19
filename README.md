@@ -16,15 +16,73 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 </div> -->
 <hr/> 
 
-Check out some of my projects below....
 
-Clearcoin Crypto: https://github.com/jarrodmjack/Clear-coin-app
 
-World of Warcraft item finder: https://github.com/jarrodmjack/World-Of-WarCraft-Item-Finder
+<h1 align="center">Projects</h1>
 
-Country Info Database: https://github.com/jarrodmjack/country-api
 
-Pokemon Card Generator: https://github.com/jarrodmjack/pokemon-api
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Clearcoin Crypto</h3>
+        <br />
+        <a target="_blank" href="https://github.com/jarrodmjack/Clear-coin-app">
+            <img src="https://www.akbizmag.com/wp-content/uploads/2020/11/blockchain-1500x900-1.jpg"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jarrodmjack/Clear-coin-app">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/jarrodmjack/Clear-coin-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/React/Node.js</strong> - Clearcoin Crypto is a full-stack crypto price tracking application created to make price tracking less overwhelming</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">100 Notes</h3>
+        <br />
+        <a target="_blank" href="https://github.com/jarrodmjack/100notes">
+            <img src="https://res.cloudinary.com/valmorganaus/images/w_1500,h_900/f_auto,q_auto/v1642423232/latch/Untitled-design-2020-07-03T155401.181/Untitled-design-2020-07-03T155401-181-jpg?_i=AA" width="100%" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML/CSS/JavaScript/MongoDB/Node.js</strong> - A full-stack application used to take notes and save paper</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Infinity Salon</h3>
+        <br />
+      <a target="_blank" href="https://sallyssalon.netlify.app/">
+            <img src="https://cdn-aiogc.nitrocdn.com/rMYQrsZdIIazKavgLMeJFjBGGJYSrQyJ/assets/static/optimized/rev-66a7702/wp-content/uploads/2022/02/industrie-salon-los-angeles.jpg" width="100%"  alt="salon"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jarrodmjack/salon-layout-homework" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://infinitysalon.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML/CSS/JavaScript</strong> - A Webpage for Infinity Salon</p>
+    </td>
+  </tr>
+</table>
+
 
 
 <hr/>
