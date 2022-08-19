@@ -26,20 +26,20 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
     <td width="50%" valign="top">
       <h3 align="center">Clearcoin Crypto</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/Clear-coin-app">
+        <a target="_blank" href="https://github.com/jarrodmjack/ClearCoin">
             <img src="https://www.akbizmag.com/wp-content/uploads/2020/11/blockchain-1500x900-1.jpg"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/Clear-coin-app">
+  <a href="https://github.com/jarrodmjack/ClearCoin">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://clearcoin-crypto.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React</strong> - Clearcoin is a crypto price tracker built using React. This was made to make price tracking less overwhelming for people new to the crypto space</p>
+        <p><strong>JavaScript/EJS/MongoDB/Express/Node</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
