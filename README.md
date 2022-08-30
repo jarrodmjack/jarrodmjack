@@ -42,23 +42,24 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
         <p><strong>JavaScript/EJS/MongoDB/Express/Node</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Aqua Advisor</h3>
+      <h3 align="center">100 Notes</h3>
         <br />
-      <a target="_blank" href="https://aquaadvisor.netlify.app/">
-            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
+        <a target="_blank" href="https://github.com/jarrodmjack/100notes">
+            <img src="https://res.cloudinary.com/valmorganaus/images/w_1500,h_900/f_auto,q_auto/v1642423232/latch/Untitled-design-2020-07-03T155401.181/Untitled-design-2020-07-03T155401-181-jpg?_i=AA" width="100%" alt="notes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/jarrodmjack/100notes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://aquaadvisor.netlify.app/" target="_blank">
+  </a>  
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
-    </td> 
+        <p><strong>HTML/CSS/JavaScript/MongoDB/Node.js</strong> - A full-stack application used to take notes and save paper</p>
+    </td>
+    
   </tr>
   
   <tr>
@@ -81,23 +82,23 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
         <p><strong>HTML/CSS/JavaScript</strong> - A Webpage for Infinity Salon</p>
     </td>
    <td width="50%" valign="top">
-      <h3 align="center">100 Notes</h3>
+      <h3 align="center">Aqua Advisor</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/100notes">
-            <img src="https://res.cloudinary.com/valmorganaus/images/w_1500,h_900/f_auto,q_auto/v1642423232/latch/Untitled-design-2020-07-03T155401.181/Untitled-design-2020-07-03T155401-181-jpg?_i=AA" width="100%" alt="notes"/>
+      <a target="_blank" href="https://aquaadvisor.netlify.app/">
+            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/100notes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
   <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://aquaadvisor.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JavaScript/MongoDB/Node.js</strong> - A full-stack application used to take notes and save paper</p>
-    </td>
+        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
+    </td> 
   </tr>
 	
 </table>
