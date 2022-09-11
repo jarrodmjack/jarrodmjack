@@ -7,6 +7,10 @@
 
 <h4 align="center">
 I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stack Web Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to open source projects and create web applications that are responsive, powerful and accessible to all.
+
+<h6 align="center">Languages and Tools:</h6>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> </p>
+
 </h4>
 <br>
 <!--<div align="center">
@@ -118,9 +122,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/jarrodmjack"><img
       src="https://github-profile-trophy.vercel.app/?username=jarrodmjack&row=1&column=3&theme=algolia" alt="jarrodmjack" /></a>  </p>
-    
- 
-
+   
 
 <br>
 <!-- <hr/> -->
@@ -146,6 +148,4 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 	<a href="https://github.com/jarrodmjack"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jarrod-jack-65472822a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/jarrodmjack"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	
-	
 </p>
