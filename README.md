@@ -61,7 +61,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Materialize</strong> - A full-stack application used to take notes and save paper</p>
+        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Materialize</strong> - A full-stack application for tracking expenses compared to a fixed budget</p>
     </td>
     
   </tr>
