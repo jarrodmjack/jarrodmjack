@@ -46,6 +46,26 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
         <p><strong>JavaScript/EJS/MongoDB/Express/Node</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">The Reef</h3>
+        <br />
+        <a target="_blank" href="https://github.com/jarrodmjack/social-networking-app">
+            <img src="https://user-images.githubusercontent.com/99290888/191861819-82709d5b-9b03-4a7f-8422-57c67a3a3913.jpg" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jarrodmjack/social-networking-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/jarrodmjack/social-networking-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Bootstrap/Passport</strong> - A full stack web application to be used for buying/selling/trading with other fellow aquarists</p>
+    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
       <h3 align="center">100D Budgets</h3>
         <br />
         <a target="_blank" href="https://budget-tracker-100devs.herokuapp.com/">
@@ -62,28 +82,6 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
   </a>
       </p>
         <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Materialize</strong> - A full-stack application for tracking expenses compared to a fixed budget</p>
-    </td>
-    
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Infinity Salon</h3>
-        <br />
-      <a target="_blank" href="https://infinitysalon.netlify.app/">
-            <img src="https://cdn-aiogc.nitrocdn.com/rMYQrsZdIIazKavgLMeJFjBGGJYSrQyJ/assets/static/optimized/rev-66a7702/wp-content/uploads/2022/02/industrie-salon-los-angeles.jpg" width="100%"  alt="salon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/jarrodmjack/salon-layout-homework" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://infinitysalon.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Webpage for Infinity Salon</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
