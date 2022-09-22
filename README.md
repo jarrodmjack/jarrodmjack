@@ -49,7 +49,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
       <h3 align="center">The Reef</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/social-networking-app">
-            <img src="https://user-images.githubusercontent.com/99290888/191861819-82709d5b-9b03-4a7f-8422-57c67a3a3913.jpg" alt="notes"/>
+            <img src="https://user-images.githubusercontent.com/99290888/191862585-dc34105f-9d76-4bc1-bc3f-73e4ee78d33d.jpg" alt="notes"/>
         </a>
         <br />
         <p align="center">
