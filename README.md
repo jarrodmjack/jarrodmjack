@@ -30,16 +30,16 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
     <td width="50%" valign="top">
       <h3 align="center">Clearcoin Crypto</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/ClearCoin">
-            <img src="https://www.akbizmag.com/wp-content/uploads/2020/11/blockchain-1500x900-1.jpg"/>
+        <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
+            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/ClearCoin">
+  <a href="https://github.com/jarrodmjack/Clearcoin-mkII">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://clearcoinv1.herokuapp.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
