@@ -129,6 +129,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
 <a href="https://github.com/jarrodmjack"><img alt="Jarrod activity graph" src="https://activity-graph.herokuapp.com/graph?username=jarrodmjack&custom_title=jarrods%20Contribution%20Graph&theme=react-dark" /></a>
 
 
+<!--
 <hr/>
 
 ## 🐍
@@ -136,7 +137,7 @@ I'm a Full-Stack Developer based in Canada 🍁, I am passionate about Full-Stac
   <p align="center">
   <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
-
+-->
 <hr/>
 
 ## 🙋‍♀️ Let's Connect
