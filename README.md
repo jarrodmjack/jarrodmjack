@@ -1,9 +1,5 @@
 
 <h1 align="center">Hi , I'm Jarrod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <p align="center">
-  <a href="https://github.com/jarrodmjack"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p> -->
-
 
 <h4 align="center">
 I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stack Software Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to open source projects and create web applications that are responsive, powerful and accessible to all.
@@ -129,21 +125,10 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/jarrodmjack"><img alt="Jarrod activity graph" src="https://activity-graph.herokuapp.com/graph?username=jarrodmjack&custom_title=jarrods%20Contribution%20Graph&theme=react-dark" /></a>
 
-
-<!--
-<hr/>
-
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
--->
 <hr/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:jarrodmjack@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/jarrodmjack"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jarrodmjack/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
