@@ -10,13 +10,6 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
 
 </h4>
 <br>
-<!--<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div> -->
-<!-- <hr/>  -->
-
 
 
 <h1 align="center">Projects</h1>
@@ -121,9 +114,9 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
 
 <br>
 <!-- <hr/> -->
-
+<!-- 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jarrodmjack"><img alt="Jarrod activity graph" src="https://activity-graph.herokuapp.com/graph?username=jarrodmjack&custom_title=jarrods%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/jarrodmjack"><img alt="Jarrod activity graph" src="https://activity-graph.herokuapp.com/graph?username=jarrodmjack&custom_title=jarrods%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 <hr/>
 
