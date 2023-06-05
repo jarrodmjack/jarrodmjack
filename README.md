@@ -36,22 +36,23 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
         <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">The Reef</h3>
+      <h3 align="center">CreativePay</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/social-networking-app">
-            <img src="https://user-images.githubusercontent.com/99290888/191862798-060db48a-fe53-4f05-a0fa-e3e7ffebf3b8.jpg" alt="notes"/>
+        <a target="_blank" href="https://github.com/jarrodmjack/creativepay">
+            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/5f8aac8d-47c8-42dd-bf4d-41fb197ba3d6" alt="notes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/social-networking-app" target="_blank">
+  <a href="https://github.com/jarrodmjack/creativepay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://github.com/jarrodmjack/social-networking-app" target="_blank">
+  <a href="https://github.com/jarrodmjack/creativepay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
+    <br />
       </p>
-        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Bootstrap/Passport</strong> - A full stack web application to be used for buying/selling/trading with other fellow aquarists</p>
+        <p><strong>React/Node.js/Express/JWT Auth/MongoDB/Tailwind/DaisyUI</strong> - A full stack web application to track employee time punches and automatically calculate payouts for pay periods</p>
     </td>
   </tr>
   <tr>
