@@ -18,22 +18,22 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Clearcoin Crypto</h3>
+      <h3 align="center">CityHopper</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
-            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
+        <a target="_blank" href="https://github.com/jarrodmjack/CityHopper">
+            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/649d55ca-fb18-416b-a42d-c9d17832c638"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/Clearcoin-mkII">
+  <a href="https://github.com/jarrodmjack/CityHopper">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://clearcoinmkii.herokuapp.com/" target="_blank">
+  <a href="https://t3app-pink.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
+        <p><strong>NextJS/TypeScript/TailwindCSS/tRPC/Prisma/Clerk</strong> - CityHopper is an App that uses the AirBNB API to find the cheapest properties in your destination city</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">CreativePay</h3>
@@ -56,23 +56,23 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
     </td>
   </tr>
   <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">100D Budgets</h3>
+  <td width="50%" valign="top">
+      <h3 align="center">Clearcoin Crypto</h3>
         <br />
-        <a target="_blank" href="https://budget-tracker-100devs.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/99290888/188750992-228bf34f-a0c5-4ccd-9302-0f8e0618f77e.png" alt="notes"/>
+        <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
+            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/FitzHawke/budget-mvc-auth-local" target="_blank">
+  <a href="https://github.com/jarrodmjack/Clearcoin-mkII">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://budget-tracker-100devs.herokuapp.com/" target="_blank">
+  <a href="https://clearcoinmkii.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Materialize</strong> - A full-stack application for tracking expenses compared to a fixed budget</p>
+        <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
