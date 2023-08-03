@@ -18,6 +18,25 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">MoveWeights</h3>
+        <br />
+        <a target="_blank" href="https://github.com/jarrodmjack/MoveWeights">
+            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/9131977d-bcf7-4239-b5c7-0113215e2f71" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jarrodmjack/MoveWeights" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://move-weights.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+    <br />
+      </p>
+        <p><strong>NextJS/Node/Express/JWTAuth/MongoDB/Tailwind/DaisyUI</strong> - A mobile-first web app for tracking exercises and proividing analytics on workout history</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">CityHopper</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/CityHopper">
@@ -35,7 +54,9 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
       </p>
         <p><strong>NextJS/TypeScript/TailwindCSS/tRPC/Prisma/Clerk</strong> - CityHopper is an App that uses the AirBNB API to find the cheapest properties in your destination city</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+      <td width="50%" valign="top">
       <h3 align="center">CreativePay</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/creativepay">
@@ -53,26 +74,6 @@ I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stac
     <br />
       </p>
         <p><strong>React/Node.js/Express/JWT Auth/MongoDB/Tailwind/DaisyUI</strong> - A full stack web application to track employee time punches and automatically calculate payouts for pay periods</p>
-    </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-      <h3 align="center">Clearcoin Crypto</h3>
-        <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
-            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/jarrodmjack/Clearcoin-mkII">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://clearcoinmkii.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
